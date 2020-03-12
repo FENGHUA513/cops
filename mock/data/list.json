@@ -1,0 +1,209 @@
+{
+    "state": 0,
+    "message": "",
+    "data": [{
+            "expand": true,
+            "title": "<p rd_id='main_0'>处理步骤</p>",
+            "anchor_point": "main_0",
+            "rd_id": "main_0",
+            "order": 1,
+            "type": "main",
+            "contentType": "step",
+            "content": [{
+                "expand": true,
+                "title": "<p rd_id='ec728ec5-22b1-4d95-8270-157a9b18382c'>3.1  检查1#堆反应堆舱室屏蔽冷却水系统正常（0KAA00 EJ101）</p>",
+                "anchor_point": "main_1__step_1",
+                "rd_id": "ec728ec5-22b1-4d95-8270-157a9b18382c",
+                "order": 1,
+                "type": "step",
+                "hasLogicContent": false,
+                "contentType": "items",
+                "content": [{
+                        "expand": true,
+                        "title": "<p rd_id='241244351111111'>1)  1#堆舱屏冷水流量约为11t/h：</p><p>aaaaaaaaaaaa</p><p>bbbbbbbbbbbb</p><p>cccccccccccc</p>",
+                        "order": 1,
+                        "type": "items",
+                        "hasLogicContent": true,
+                        "anchor_point": "main_1__step_1__items_1",
+                        "rd_id": "241244351111111"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='241244351111133'>2)  1#堆舱屏冷水温度在36.4℃～42℃之间：</p>",
+                        "order": 2,
+                        "type": "items",
+                        "hasLogicContent": true,
+                        "anchor_point": "main_1__step_1__items_2",
+                        "rd_id": "241244351111133"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='2412443511116666'>3)  1#堆反应堆上部舱室温度≤90℃</p>",
+                        "order": 3,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "main_1__step_1__items_3",
+                        "rd_id": "2412443511116666"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='241244351119999'>4)  1#堆反应堆压力容器侧向支承温度≤70℃</p><p>aaaaaaaaaaaa</p><p>bbbbbbbbbbbb</p><p>cccccccccccc</p>",
+                        "order": 4,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "main_1__step_1__items_4",
+                        "rd_id": "241244351119999"
+                    }
+                ]
+            },{
+                "expand": true,
+                "title": "<p rd_id='ec728ec5-22b1-4d95-8270-157a9b18382c'>3.2  检查1#堆反应堆舱室屏蔽冷却水系统正常（0KAA00 EJ101）</p>",
+                "anchor_point": "main_1__step_2",
+                "rd_id": "ec728ec5-22b1-4d95-8270-157a9b18382c",
+                "order": 1,
+                "type": "step",
+                "hasLogicContent": false,
+                "contentType": "items",
+                "content": [{
+                        "expand": true,
+                        "title": "<p rd_id='241244351111111'>1)  1#堆舱屏冷水流量约为11t/h：</p>",
+                        "order": 1,
+                        "type": "items",
+                        "hasLogicContent": true,
+                        "anchor_point": "main_1__step_2__items_1",
+                        "rd_id": "241244351111111"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='241244351111133'>2)  1#堆舱屏冷水温度在36.4℃～42℃之间：</p>",
+                        "order": 2,
+                        "type": "items",
+                        "hasLogicContent": true,
+                        "anchor_point": "main_1__step_2__items_2",
+                        "rd_id": "241244351111133"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='2412443511116666'>3)  1#堆反应堆上部舱室温度≤90℃</p>",
+                        "order": 3,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "main_1__step_2__items_3",
+                        "rd_id": "2412443511116666"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='241244351119999'>4)  1#堆反应堆压力容器侧向支承温度≤70℃</p>",
+                        "order": 4,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "main_1__step_2__items_4",
+                        "rd_id": "241244351119999"
+                    }
+                ]
+            }]
+        },
+        {
+            "expand": true,
+            "title": "<p rd_id='appendix_1'>附件1 XXXXXXXXXXXXXXXXX</p>",
+            "anchor_point": "appendix_1",
+            "rd_id": "appendix_1",
+            "order": 2,
+            "type": "appendix",
+            "contentType": "step",
+            "content": [{
+                "expand": true,
+                "title": "<p rd_id='6346346346346346'>1  附件的检查1#堆反应xxxxxxx系统正常（0KAA00 FJ101）</p>",
+                "anchor_point": "appendix_2__step_1",
+                "rd_id": "6346346346346346",
+                "order": 1,
+                "type": "step",
+                "hasLogicContent": true,
+                "contentType": "items",
+                "content": [{
+                        "expand": true,
+                        "title": "<p rd_id='6346346324124234'>1)  1#堆舱屏冷水流量约为11t/h：</p>",
+                        "order": 1,
+                        "type": "items",
+                        "hasLogicContent": true,
+                        "anchor_point": "appendix_2__step_1__items_1",
+                        "rd_id": "6346346324124234"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='634634634134241'>2)  1#堆舱屏冷水温度在36.4℃～42℃之间：</p>",
+                        "order": 2,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "appendix_2__step_1__items_2",
+                        "rd_id": "634634634134241"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='634634634666666666'>3)  1#堆反应堆上部舱室温度≤90℃</p><p>aaaaaaaaaaaa</p><p>bbbbbbbbbbbb</p><p>cccccccccccc</p>",
+                        "order": 3,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "appendix_2__step_1__items_3",
+                        "rd_id": "634634634666666666"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='634634634555555555'>4)  1#堆反应堆压力容器侧向支承温度≤70℃</p>",
+                        "order": 4,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "appendix_2__step_1__items_4",
+                        "rd_id": "634634634555555555"
+                    }
+                ]
+            },{
+                "expand": true,
+                "title": "<p rd_id='6346346346346346'>2  附件的检查1#堆反应xxxxxxx系统正常（0KAA00 FJ101）</p>",
+                "anchor_point": "appendix_2__step_2",
+                "rd_id": "6346346346346346",
+                "order": 1,
+                "type": "step",
+                "hasLogicContent": false,
+                "contentType": "items",
+                "content": [{
+                        "expand": true,
+                        "title": "<p rd_id='6346346324124234'>1)  1#堆舱屏冷水流量约为11t/h：</p>",
+                        "order": 1,
+                        "type": "items",
+                        "hasLogicContent": true,
+                        "anchor_point": "appendix_2__step_2__items_1",
+                        "rd_id": "6346346324124234"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='634634634134241'>2)  1#堆舱屏冷水温度在36.4℃～42℃之间：</p><p>aaaaaaaaaaaa</p><p>bbbbbbbbbbbb</p><p>cccccccccccc</p>",
+                        "order": 2,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "appendix_2__step_2__items_2",
+                        "rd_id": "634634634134241"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='634634634666666666'>3)  1#堆反应堆上部舱室温度≤90℃</p>",
+                        "order": 3,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "appendix_2__step_2__items_3",
+                        "rd_id": "634634634666666666"
+                    },
+                    {
+                        "expand": true,
+                        "title": "<p rd_id='634634634555555555'>4)  1#堆反应堆压力容器侧向支承温度≤70℃</p>",
+                        "order": 4,
+                        "type": "items",
+                        "hasLogicContent": false,
+                        "anchor_point": "appendix_2__step_2__items_4",
+                        "rd_id": "634634634555555555"
+                    }
+                ]
+            }]
+        }
+    ]
+}
